@@ -1,0 +1,106 @@
+     *{ 
+              background-color: darkslategrey; 
+          }   
+
+   h1{
+     color:aquamarine  ; 
+     
+        text-decoration: double ;  
+        text-align: center;  
+         border: 3px  solid brown ;
+
+         font-weight:30  normal ; 
+     } 
+      #one 
+      {
+         font-size: 30px; 
+      } 
+       #h3 
+       {
+        font-size:20px; 
+      
+       } 
+        #two{ 
+          fort-size: 20 px ;  
+          color:rgb(139, 82, 6)  ; 
+           background-color: chartreuse; 
+           text-align:center; 
+            text-shadow: 0cqmin; 
+             -moz-text-decoration-line: inherit;  
+               text-transform: uppercase;
+        }  
+         #parag{ 
+             text-transform: uppercase;
+             line-height: 20px; 
+              text-align: center;
+               color: darkolivegreen;  
+               /* text-transform:uppercase;   */ 
+                text-transform: capitalize; 
+         } 
+          
+           #hanuman{
+             text-transform: capitalize; 
+              text-align: centre ;
+           }     
+           h2{
+              height: 90px;
+               background-color: brown   ;  
+
+             width: 100px; 
+                 border-width: 2px;
+                   border-style:solid;    
+                    border-color: rgb(1, 1, 16);  
+           }   
+           #box{ 
+               background-color: rgb(255, 255, 255);
+                 height: 100px;
+                  width:100px;   
+                    text-decoration:solid;
+                 
+                   border-width: 5px;
+                   border-style:solid;    
+                    border-color: rgb(247, 243, 243);    
+                    border-radius: 52%; 
+                     border-top-color: #000000;  
+                      /* border-radius: %;  */
+                   
+                   /* border: 20px;   */
+                     text-align: center;  
+                      animation : box  1s   infinite ;     
+                        text-shadow: #9c000061; 
+                        text-box: 33px;
+  padding-right: 40px;
+   padding-left: 40px;                    
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+    border-bottom-color: blue ; 
+     border-left-color: rgb(250, 16, 16) ;
+      border-right-color: rgb(16, 250, 16)
+  }     
+  
+             
+             @keyframes   box{ 
+              100%{
+                rotate:  360deg ;
+              }
+              
+             }  
+             
+              #margin{
+                  height: 100px   ;
+                   width:  100px;    
+                    background-color:rgb(127 , 250 , 0 ) ;
+                    border-width: 5px; 
+                     border-style:solid;
+                    /* border-radius: 22%;  */
+                     /* border: 6px;    */
+                   
+                      border-color: rgb(118, 7, 7);  
+                          border-top-color: rgb(0, 0, 0); 
+                           /* margin-top: 50px; */
+         /* padding-left: 60px;  */
+          pading:23px 23px 23px 23px  ; 
+             /* top|right|bottom|ledt->clockwise */
+
+
+              }
